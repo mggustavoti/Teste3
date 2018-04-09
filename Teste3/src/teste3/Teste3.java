@@ -15,6 +15,7 @@ public class Teste3 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        System.out.println("Olá mundo1!");
         System.out.println("Olá mundo2!");
         System.out.println("Darlan");
     }
